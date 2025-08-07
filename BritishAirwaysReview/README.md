@@ -12,7 +12,7 @@
 ## Use Case
   - This dashboard is designed to help stakeholders understand patterns in customer satisfaction and identify actionable opportunities to improve service delivery.
 
-### Project Website: [Link](https://public.tableau.com/app/profile/saad.abdullah5369/viz/SA_British_Airways_Review/Ratings?publish=yes)
+## Project Website: [Link](https://public.tableau.com/app/profile/saad.abdullah5369/viz/SA_British_Airways_Review/Ratings?publish=yes)
 ![Image couldn't be loaded!](dashboard_image.png "British Airways Review")
 
 ## Dataset
